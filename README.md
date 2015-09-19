@@ -1,4 +1,6 @@
-![sp-pwd logo](http://agile-greece.uhurucloud.com/wp-content/uploads/2013/01/sp_pwd_Logo.png)
+![sp-pwd logo](http://agile-greece.cssa.tk/wp-content/uploads/2013/01/sp_pwd_Logo.png)
+
+**_This Project is no longer under active development and stays here for historical and reference purposes._** 
 
 *(Yet Another)* **Simple PHP password strength test** (REST web service)
 
@@ -37,8 +39,8 @@ If everything is OK, you will get a JSON Response like this (example used "P@ssw
 
 ##Test it on-line
 
-You can test this script and it's results on-line, using:  
-`http://cscloud.netne.net/api-test/index.php/password/{your_password}`
+~~You can test this script and it's results on-line~~, using:  
+ ~~`http://cscloud.netne.net/api-test/index.php/password/{your_password}`~~
 
 ##Official Web Page
-[![agile-greece](http://agile-greece.uhurucloud.com/wp-content/uploads/2013/01/ag_Logo3.png)](http://agile-greece.uhurucloud.com/?page_id=208)
+[![agile-greece](http://agile-greece.cssa.tk/wp-content/uploads/2013/01/ag_Logo3.png)](http://agile-greece.cssa.tk/?page_id=208)
